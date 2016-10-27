@@ -1,0 +1,6 @@
+c:\users\playgta5\documents\visual studio 2015\Projects\KaspX\KaspX\bin\Debug\KaspX.exe.config
+c:\users\playgta5\documents\visual studio 2015\Projects\KaspX\KaspX\bin\Debug\KaspX.exe
+c:\users\playgta5\documents\visual studio 2015\Projects\KaspX\KaspX\bin\Debug\KaspX.pdb
+c:\users\playgta5\documents\visual studio 2015\Projects\KaspX\KaspX\obj\Debug\KaspX.csprojResolveAssemblyReference.cache
+c:\users\playgta5\documents\visual studio 2015\Projects\KaspX\KaspX\obj\Debug\KaspX.exe
+c:\users\playgta5\documents\visual studio 2015\Projects\KaspX\KaspX\obj\Debug\KaspX.pdb
